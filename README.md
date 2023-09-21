@@ -1,3 +1,4 @@
 # react_tactictoe
+A React app tic-tac-toe game.
 
-[Edit on StackBlitz ⚡️](https://stackblitz.com/edit/stackblitz-starters-imvwgg)
+https://react.dev/learn/tutorial-tic-tac-toe
